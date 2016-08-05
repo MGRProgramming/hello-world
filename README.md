@@ -1,4 +1,4 @@
 # hello-world
 Hello World 
 
-testing to commit my first git change
+... a sandbox to get familia with procedures at github
