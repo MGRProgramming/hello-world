@@ -1,4 +1,4 @@
 # hello-world
-Hello World 
+My Hello World Repo
 
-testing to commit my first git change
+..just a sandbox for me to get familiar with github and its procedures 
